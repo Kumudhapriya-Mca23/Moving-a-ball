@@ -1,9 +1,16 @@
-## MOVING A BALL 
- #### Moving a ball is a made to move in vertical direction in fixed velocity.The ball moves in top to bottom and wise versa which refers to be bouncing.The ball is made to move in X and Y axis.
-      
-### STEPS TO RUN THE PROJECT
-   #### Open the githup link to run the Moving a ball progam.
+## MOVING A BALL
 
-### FUTURE IMPOVEMENTS
- #### This poject can be further enhanced by  creating an animation like a girl bouncing a ball.
+#### Description:
+
+###### This HTML page displays a continuous bouncing red ball animation within a rectangular area, controlled by JavaScript using the setInterval function with a 500-millisecond interval.
+
+How to run the code:
+
+Step 1: Save the HTML file with a .html extension.
+
+Step 2: Install the Live Server extension in Visual Studio Code, then click the "Go Live" button at the bottom right corner of the VSCode window to open a new browser window displaying the ball-moving animation.
+
+Future improvement:
+
+consider adding user interaction features like mouse or keyboard control to change the ball's direction or speed, or adding obstacles or targets for the ball to interact with, creating a more engaging and interactive animation.
       
